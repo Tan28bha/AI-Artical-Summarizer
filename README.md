@@ -99,7 +99,7 @@ ai-article-summarizer/
 
 This project is licensed under the **MIT License** — you’re free to use, modify, and distribute it.
 
-![Extension Screenshot](screenshot.png)
+![Extension Screenshot](Screenshot%202025-11-01%20174657.png)
 
 
 ## 💡 Author
